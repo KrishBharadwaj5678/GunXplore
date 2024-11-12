@@ -1,4 +1,4 @@
-**🔫 Welcome to the AR Gun Viewer! 🔫**
+# 🔫 Welcome to the AR Gun Viewer! 🔫
 
 **💥 Bring Guns to Life in Augmented Reality! 💥**  
 Get ready to experience the future of augmented reality as **realistic 3D gun models** are unlocked by simply scanning images. Explore and interact with lifelike firearm models in your real-world environment – right from your device!
