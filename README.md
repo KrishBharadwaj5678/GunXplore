@@ -15,7 +15,7 @@ Follow these easy steps to start your AR gun exploration:
 ---
 
 ### **Step 2:**  
-📲 **Download the AR Gun Viewer app** by clicking the link provided.
+📲 **Download the app** by clicking the link provided.
 
 ---
 
