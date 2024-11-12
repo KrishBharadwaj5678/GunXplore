@@ -34,7 +34,6 @@ Follow these easy steps to start your AR gun exploration:
 
 ---
 
-### 🔫 **Unlock the Future of AR!** 🔫  
 Whether you're a gun enthusiast, a tech lover, or just curious about AR, this app is designed for **learning**, **engagement**, and **exploration**. Dive into the world of augmented reality and see firearms like never before!
 
 --- 
