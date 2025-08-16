@@ -1,20 +1,34 @@
 # Welcome to GunXplore! 🔫
 
-Get ready to experience the future of augmented reality as **realistic 3D gun models** are unlocked by simply scanning images. Explore and interact with lifelike firearm models in your real-world environment – right from your device!
+Step into the future of **augmented reality** with **GunXplore**. Scan images of firearms and instantly bring detailed 3D models into your space for an immersive experience.
 
 ---
 
-## 🚀 **Getting Started is Simple!**
+## ✨ **Features**
 
-Follow these easy steps to start your AR gun exploration:
+| **Feature**             | **Description**                                                        |
+| ----------------------- | ---------------------------------------------------------------------- |
+| **Realistic 3D Models** | Experience highly detailed 3D models of various firearms.              |
+| **Augmented Reality**   | Engage with models in your physical environment.                       |
 
-### **Step 1:** `Download the gun images` provided in the repository to your device.
+---
 
+## 🚀 **Getting Started**
 
-### **Step 2:** `Download the app` by clicking the link provided.
+Ready to dive into the future of AR gun exploration? Follow these quick steps:
 
-### **Step 3:** `Open the app` and prepare for an exciting 3D AR experience!
+### **1. 📥 Download the Gun Images**
 
-### **Step 4:** `Scan any of the gun images` you downloaded to bring the 3D model to life.
+* Grab the images from this repo and save them to your device.
 
-### **Step 5:** `Interact` with the detailed 3D gun models and explore them in your own space with realistic visuals!
+### **2. 📲 Install the GunXplore App**
+
+* Click the link to install the GunXplore app on your phone and get started!
+
+### **3. 🎮 Open the App**
+
+* Launch the app and get ready to explore stunning 3D models in AR.
+
+### **4. 🖼️ Scan the Image**
+
+* Point your camera at any of the downloaded images to bring the firearm to life instantly.
