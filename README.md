@@ -17,4 +17,4 @@ Follow these easy steps to start your AR gun exploration:
 
 ### **Step 4:** `Scan any of the gun images` you downloaded to bring the 3D model to life.
 
-### **Step 5:** `Interact` with the detailed 3D gun models and explore them in your own space with realistic AR visuals!
+### **Step 5:** `Interact` with the detailed 3D gun models and explore them in your own space with realistic visuals!
