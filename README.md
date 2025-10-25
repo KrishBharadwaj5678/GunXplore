@@ -2,6 +2,8 @@
 
 Step into the future of **augmented reality** with **GunXplore**. Scan images of firearms and instantly bring detailed 3D models into your space for an immersive experience.
 
+![GunXplore](https://github.com/KrishBharadwaj5678/GunXplore/raw/main/GunXploreDemo.jpg)
+
 ---
 
 ## ✨ **Features**
