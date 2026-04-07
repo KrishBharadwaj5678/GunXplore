@@ -15,22 +15,26 @@ Step into the future of **augmented reality** with **GunXplore**. Scan images of
 
 ---
 
-## 🚀 **Getting Started**
+## 🚀 Getting Started
 
-Ready to dive into the future of AR gun exploration? Follow these quick steps:
+Ready to explore the GunXplore? Follow these simple steps:
 
-### **1. 📥 Download the Gun Images**
+### 1️⃣ 📥 Download Marker Images
 
-* Grab the images from this repo and save them to your device.
+* Navigate to the **`markers/`** folder in this repository
+* Download the marker images to your device
+* These markers are required to trigger the models in the app
 
-### **2. 📲 Install the GunXplore App**
+### 2️⃣ 📲 Install the App
 
-* Click the link to install the GunXplore app on your phone and get started!
+* Download and install the **GunXplore App** from here -
+  [Download App](https://drive.google.com/file/d/1YQp0ygnplIxYQkf5liDiMSgBa6qnqNSf/view?usp=sharing)
 
-### **3. 🎮 Open the App**
+### 3️⃣ 🎮 Launch the App
 
-* Launch the app and get ready to explore stunning 3D models in AR.
+* Open the app and allow necessary permissions (camera access)
 
-### **4. 🖼️ Scan the Image**
+### 4️⃣ 📸 Scan the Markers
 
-* Point your camera at any of the downloaded images to bring the firearm to life instantly.
+* Point your camera at the downloaded marker images
+* Watch the models appear in real-time 
