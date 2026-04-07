@@ -1,4 +1,4 @@
-# Welcome to GunXplore! 🔫
+# 🔫 Welcome to GunXplore! 
 
 Step into the future of **augmented reality** with **GunXplore**. Scan images of firearms and instantly bring detailed 3D models into your space for an immersive experience.
 
