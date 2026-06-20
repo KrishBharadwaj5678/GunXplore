@@ -28,7 +28,7 @@
 * 以下のリンクから **GunXplore アプリ** をダウンロードしてインストールします。
 
   **アプリをダウンロード:**
-  https://drive.google.com/file/d/1YQp0ygnplIxYQkf5liDiMSgBa6qnqNSf/view?usp=sharing
+  [アプリをダウンロード](https://drive.google.com/file/d/1YQp0ygnplIxYQkf5liDiMSgBa6qnqNSf/view?usp=sharing)
 
 ### 3️⃣ アプリを起動
 
