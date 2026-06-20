@@ -28,7 +28,7 @@
 * Скачайте и установите приложение **GunXplore** по ссылке ниже:
 
   **Скачать приложение:**
-  https://drive.google.com/file/d/1YQp0ygnplIxYQkf5liDiMSgBa6qnqNSf/view?usp=sharing
+  [Download the app](https://drive.google.com/file/d/1YQp0ygnplIxYQkf5liDiMSgBa6qnqNSf/view?usp=sharing)
 
 ### 3️⃣ Запустите приложение
 
