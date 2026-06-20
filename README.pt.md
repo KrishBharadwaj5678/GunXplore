@@ -28,7 +28,7 @@ Entre no futuro da **realidade aumentada** com o **GunXplore**. Escaneie imagens
 * Baixe e instale o **Aplicativo GunXplore** através do link abaixo:
 
   **Baixar Aplicativo:**
-  https://drive.google.com/file/d/1YQp0ygnplIxYQkf5liDiMSgBa6qnqNSf/view?usp=sharing
+  [Baixar o aplicativo](https://drive.google.com/file/d/1YQp0ygnplIxYQkf5liDiMSgBa6qnqNSf/view?usp=sharing)
 
 ### 3️⃣ Iniciar o Aplicativo
 
